@@ -15,6 +15,7 @@
                         |---sign-up.js
             |---utils
                 |---db.js
+            |---app.js
         |---fixture
             |---index.js
             |---db.sh
@@ -22,6 +23,9 @@
             |---models
             |---routes
             |---utils
+        |---bin
+            |---start.sh
+            |---stop.sh
         |---package.json
     |---public
         |---lib
